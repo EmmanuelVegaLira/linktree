@@ -1,7 +1,7 @@
 {
   "html": {
     "lang": "es",
-    "title": "AlexjamesMx",
+    "title": "EmmanuelVega",
     "description": "Sígueme en todas mis redes sociales",
     "favicon": "./favicon.svg"
   },
@@ -10,49 +10,50 @@
     "secondColor": "#cc54db"
   },
   "header": {
-    "image": "./profile.webp",
+    "image": "./profile1.webp",
     "alt": "El propietario de este sitio web.",
-    "title": "AlexJamesMx",
-    "description": "Ingeniero de Software • Móvil • Web • IA",
+    "title": "EmmanuelVega",
+    "description": "Ingeniero Sysadmin | AWS | DevOps | SRE",
     "textColor": "white"
   },
   "socials": [
     {
       "network": "GitHub",
-      "username": "alexjamesmx",
-      "url": "https://github.com/alexjamesmx"
+      "username": "EmmanuelVegaLira",
+      "url": "https://github.com/EmmanuelVegaLira"
     },
     {
       "network": "LinkedIn",
-      "username": "alexjamesmx",
-      "url": "https://www.linkedin.com/in/alexjamesmx"
+      "username": "EmmanuelVegaLira",
+      "url": "https://www.linkedin.com/in/emmanuel-vega-lira-387a95251/"
     },
     {
       "network": "Instagram",
-      "username": "alexjamesmx",
-      "url": "https://www.instagram.com/alexjamesmxx"
+      "username": "manu_vega01",
+      "url": "https://www.instagram.com/manu_vega01/"
     },
     {
       "network": "Mail",
-      "username": "alexjamesmx",
-      "url": "mailto:aledev.mx@gmail.com"
+      "username": "EmmanuelVegaLira",
+      "url": "mailto:emmanuelvegalira@gmail.com"
     }
   ],
-  "featured": [
-    {
-      "network": "GitHub",
-      "url": "https://github.com/alexjamesmx/linkt-tree",
-      "title": "Usa esta plantilla y dale una estrella (:",
-      "textColor": "#FFF",
-      "backgroundImage": "https://githubuniverse.com/og-image-24.jpg",
-      "backgroundColor": null,
-      "borderRadius": ".75rem"
-    }
-  ], 
+"featured": [
+  {
+    "network": "GitHub",
+    "url": "https://github.com/alexjamesmx/linkt-tree",
+    "title": "Usa esta plantilla y dale una estrella (:",
+    "textColor": "#FFF",
+    "backgroundImage": "https://githubuniverse.com/og-image-24.jpg",
+    "backgroundColor": null,
+    "borderRadius": ".75rem"
+  }
+], 
+
   "buttons": [
     {
       "network": "LinkedIn",
-      "url": "https://www.linkedin.com/in/alexjamesmx",
+      "url": "https://www.linkedin.com/in/emmanuel-vega-lira-387a95251/",
       "title": "Conectemos en LinkedIn",
       "textColor": "#FFF",
       "backgroundColor": "#000",
@@ -60,7 +61,7 @@
     },
     {
       "network": "GitHub",
-      "url": "https://github.com/alexjamesmx",
+      "url": "https://github.com/EmmanuelVegaLira",
       "title": "Sígueme en GitHub",
       "textColor": "#FFF",
       "backgroundColor": "#000",
@@ -68,7 +69,7 @@
     },
     {
       "network": "Instagram",
-      "url": "https://www.instagram.com/alexjamesmxx",
+      "url": "https://www.instagram.com/manu_vega01/",
       "title": "Sígueme en Instagram",
       "textColor": "#FFF",
       "backgroundColor": "#000",
@@ -76,7 +77,7 @@
     },
     {
       "network": "Mail",
-      "url": "mailto:aledev.mx@gmail.com",
+      "url": "mailto:emmanuelvegalira@gmail.com",
       "title": "Contáctame por correo",
       "textColor": "#FFF",
       "backgroundColor": "#000",
@@ -84,7 +85,7 @@
     }
   ],
   "footer": {
-    "copyright": "Hecho por Alex Santiago 👾",
-    "url": "https://www.youtube.com/watch?v=cBT2Oew5MLs"
+    "copyright": "Copyright 2024",
+    "url": "https://vm.tiktok.com/ZMruBdWdB/"
   }
 }
